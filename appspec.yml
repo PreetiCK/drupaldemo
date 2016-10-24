@@ -2,4 +2,4 @@ version: 0.0
 os: linux
 files:
   - source: oursite
-    destination: /var/www/httpdocs
+    destination: /var/www/httpdocs/oursite
